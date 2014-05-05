@@ -1,0 +1,47 @@
+# Title of Project:
+
+## Applicant:
+
+
+## Principle Investigators:
+J. Kevin Craig, Kevin M. Purcell
+
+Beaufort Laboratory, National Marine Fisheries Service, Beaufort, NC, USA  
+
+## Background
+
+## Approach
+
+## Benefits to stock assessment and management
+
+## Deliverables
+
+
+** Not included in the two-page limit
+
+## References
+
+## Budget
+
+First Header        | Second Header | Third Header
+-------------       | ------------- | ------------
+Personnel           | Content Cell  | Content
+Fringe Benefits     | Content Cell  | Content
+Travel              | Content Cell  | Content
+Equipment           | Content Cell  | Content
+Supplies            | Content Cell  | Content
+Contractual         | Content Cell  | Content
+Other               | Content Cell  | Content
+Total Dir. Charges  | Content Cell  | Content
+Indir. Charges      | Content Cell  | Content
+Totals              | Content Cell  | Content
+
+
+
+## Budget Justification
+(brief paragraph to justify each category used above)
+
+## Personnel CVs
+(2-pagers)
+
+
